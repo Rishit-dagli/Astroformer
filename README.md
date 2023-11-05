@@ -1,6 +1,6 @@
 # Astroformer
 
-This repository contains an implementation of Astroformer, an ICLR Workshop 2023 paper. This model is aimed at detection tasks in the low-data regimes and achieves SoTA results on CIFAR-100, Tiny Imagenet, and science tasks like Galaxy10 DECals, and competetive performance on CIFAR-10 _without any additional labelled or unlabelled data_.
+This repository contains the official implementation of Astroformer, an ICLR Workshop 2023 paper. This model is aimed at detection tasks in the low-data regimes and achieves SoTA results on CIFAR-100, Tiny Imagenet, and science tasks like Galaxy10 DECals, and competetive performance on CIFAR-10 _without any additional labelled or unlabelled data_.
 
 _**Accompanying paper: [Astroformer: More Data Might not be all you need for Classification](https://arxiv.org/abs/2304.05350)**_ [![arXiv](https://img.shields.io/badge/paper-arXiv:2304.05350-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2304.05350)
 
